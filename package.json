@@ -1,6 +1,6 @@
 {
-  "name": "babel-cli",
-  "version": "6.26.0",
+  "name": "@jacksonrayhamilton/babel-cli",
+  "version": "6.26.0-414f3c731",
   "description": "Babel command line.",
   "author": "Sebastian McKenzie <sebmck@gmail.com>",
   "homepage": "https://babeljs.io/",
